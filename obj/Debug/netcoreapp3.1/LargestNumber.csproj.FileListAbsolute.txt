@@ -1,0 +1,11 @@
+/Users/pwispassword/Desktop/Visual C#/LargestNumber/obj/Debug/netcoreapp3.1/LargestNumber.csprojAssemblyReference.cache
+/Users/pwispassword/Desktop/Visual C#/LargestNumber/obj/Debug/netcoreapp3.1/LargestNumber.AssemblyInfoInputs.cache
+/Users/pwispassword/Desktop/Visual C#/LargestNumber/obj/Debug/netcoreapp3.1/LargestNumber.AssemblyInfo.cs
+/Users/pwispassword/Desktop/Visual C#/LargestNumber/bin/Debug/netcoreapp3.1/LargestNumber
+/Users/pwispassword/Desktop/Visual C#/LargestNumber/bin/Debug/netcoreapp3.1/LargestNumber.deps.json
+/Users/pwispassword/Desktop/Visual C#/LargestNumber/bin/Debug/netcoreapp3.1/LargestNumber.runtimeconfig.json
+/Users/pwispassword/Desktop/Visual C#/LargestNumber/bin/Debug/netcoreapp3.1/LargestNumber.runtimeconfig.dev.json
+/Users/pwispassword/Desktop/Visual C#/LargestNumber/bin/Debug/netcoreapp3.1/LargestNumber.dll
+/Users/pwispassword/Desktop/Visual C#/LargestNumber/bin/Debug/netcoreapp3.1/LargestNumber.pdb
+/Users/pwispassword/Desktop/Visual C#/LargestNumber/obj/Debug/netcoreapp3.1/LargestNumber.dll
+/Users/pwispassword/Desktop/Visual C#/LargestNumber/obj/Debug/netcoreapp3.1/LargestNumber.pdb
